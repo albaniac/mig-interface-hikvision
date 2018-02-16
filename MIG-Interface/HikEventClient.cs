@@ -173,6 +173,8 @@ namespace MIG.Interface
         {
             const string xmlEndStr = "</EventNotificationAlert>";
             const string xmlStartStr = "<EventNotification";
+
+            // TODO Switch to enum (see https://github.com/nayrnet/node-hikvision-api/blob/master/hikvision.js#L188 for others)
             const string eventTypeVideoloss = "videoloss";
             const string eventStateInactive = "inactive";
 
