@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Interface Domain="Homeautomation.Hikvision" AssemblyName="MIG-Interface.dll" SupportedPlatform="All">
+    <Description>Hikvision Interface</Description>
+    <Options>
+        <Option Name="MyOption1" Value="YourOptionValueHere" />
+        <Option Name="MySecureOption1" Value="" />
+    </Options>
+</Interface>

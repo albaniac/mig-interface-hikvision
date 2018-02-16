@@ -1,0 +1,18 @@
+{
+    "author": "David Wallis",
+    "version": "v!DO_NOT_EDIT_VERSION!",
+    "title": "Hikvision Interface",
+    "description": "Hikvision Interface Code",
+    "published": "!DO_NOT_EDIT_RELEASEDATE!",
+    "sourcecode": "",
+    "homepage": "https://github.com/davidwallis3101/mig-interface-hikvision",
+    "widgets": [],
+    "programs": [],
+    "interfaces": [
+        {
+            "file": "MIG-Interface.zip",
+            "name": "MIG-Interface",
+            "description": "Hikvision Interface"
+        }
+    ]
+}
